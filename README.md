@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `UK100_1m.csv` (148,732 rows, `2025-12-29` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **3,891,789** `1m` rows (~205.01 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
+> **Sample on GitHub** · `UK100_1m.csv` (148,732 rows, `2025-12-29` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **3,891,789** `1m` rows (~219.87 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/uk100-1m-ohlcv-index-hist
 | Instrument | UK 100 (FTSE) · Stock index | UK 100 (FTSE) · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 148,732 | **3,891,789** |
-| Size | 8.79 MB | ~205.01 MB |
+| Size | 8.79 MB | ~219.87 MB |
 | Period | `2025-12-29` → `2026-06-26` | `2009-03-11` → `2026-06-26` |
 | File | `UK100_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
