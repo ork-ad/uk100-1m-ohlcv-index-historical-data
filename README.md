@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `UK100_1m.csv` (148,732 rows, `2025-12-29` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **3,891,789** `1m` rows (~219.87 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
+> **Sample on GitHub** · `UK100_1m.csv` (149,632 rows, `2026-01-05` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **3,891,789** `1m` rows (~219.87 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/uk100-1m-ohlcv-index-hist
 |---|--:|---|
 | Instrument | UK 100 (FTSE) · Stock index | UK 100 (FTSE) · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 148,732 | **3,891,789** |
-| Size | 8.79 MB | ~219.87 MB |
-| Period | `2025-12-29` → `2026-06-26` | `2009-03-11` → `2026-06-26` |
+| 1m rows | 149,632 | **3,891,789** |
+| Size | 9.43 MB | ~219.87 MB |
+| Period | `2026-01-05` → `2026-07-02` | `2009-03-11` → `2026-06-26` |
 | File | `UK100_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`UK100_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-29T01:00:00Z | 9922.05 | 9927.57 | 9922.05 | 9927.55 | 32 |
-| 2025-12-29T01:01:00Z | 9927.55 | 9929.1 | 9922.11 | 9922.55 | 38 |
-| 2025-12-29T01:02:00Z | 9922.55 | 9922.57 | 9920.12 | 9920.12 | 17 |
-| 2025-12-29T01:03:00Z | 9920.12 | 9920.87 | 9919.6 | 9920.61 | 21 |
-| 2025-12-29T01:04:00Z | 9920.61 | 9921.37 | 9920.36 | 9921.11 | 25 |
+| 2026-01-05T01:00:00Z | 10020.050 | 10042.720 | 10020.050 | 10029.710 | 96 |
+| 2026-01-05T01:01:00Z | 10029.710 | 10031.730 | 10025.230 | 10029.770 | 181 |
+| 2026-01-05T01:02:00Z | 10029.770 | 10034.230 | 10029.770 | 10031.510 | 81 |
+| 2026-01-05T01:03:00Z | 10031.510 | 10031.510 | 10025.760 | 10026.710 | 62 |
+| 2026-01-05T01:04:00Z | 10026.710 | 10028.720 | 10025.760 | 10028.720 | 24 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T19:55:00Z | 10500.16 | 10501.91 | 10497.90 | 10497.90 | 120.00 |
-| 2026-06-26T19:56:00Z | 10497.90 | 10503.40 | 10497.90 | 10503.17 | 89.00 |
-| 2026-06-26T19:57:00Z | 10503.17 | 10504.41 | 10500.40 | 10500.66 | 88.00 |
-| 2026-06-26T19:58:00Z | 10500.66 | 10504.92 | 10497.66 | 10504.40 | 99.00 |
+| 2026-07-02T19:56:00Z | 10680.18 | 10687.69 | 10680.18 | 10685.67 | 131.00 |
+| 2026-07-02T19:57:00Z | 10685.67 | 10690.18 | 10685.44 | 10685.94 | 91.00 |
+| 2026-07-02T19:58:00Z | 10685.94 | 10688.42 | 10682.92 | 10687.69 | 139.00 |
+| 2026-07-02T19:59:00Z | 10687.69 | 10689.43 | 10686.42 | 10688.62 | 249.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **UK100** archive on **[ork.ad](https://ork.ad/)** includes **13 OH
 **[→ Get the full UK100 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · UK100 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · UK100 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
